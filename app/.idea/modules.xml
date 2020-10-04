@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/748552748/TFLite Object Detection Demo App.iml" filepath="$PROJECT_DIR$/.idea/modules/748552748/TFLite Object Detection Demo App.iml" group="TFLite Object Detection Demo App" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="TFLite Object Detection Demo App/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1945310255/tensorflow-lite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1945310255/tensorflow-lite.iml" group="TFLite Object Detection Demo App/tensorflow-lite" />
+    </modules>
+  </component>
+</project>
